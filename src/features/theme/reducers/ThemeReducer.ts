@@ -11,4 +11,4 @@ const themeReducer = (state: State, action: Action): State => {
   }
 };
 
-export default { themeReducer };
+export default themeReducer;
