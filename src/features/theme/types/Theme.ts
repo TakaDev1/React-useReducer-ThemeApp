@@ -1,7 +1,7 @@
 type Theme = "light" | "dark";
 
 interface State {
-  state: Theme;
+  theme: Theme;
 }
 
 interface Action {
